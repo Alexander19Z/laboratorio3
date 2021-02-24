@@ -1,0 +1,158 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11 feb. 2021, 19:51:47
+    Author     : Hewlett Packard
+*/
+/*Para hacer un caja contenedora  */
+#contenido{
+        width:550px;
+        height: 500px;
+        background-color:#FFFFFF; 
+        position: relative;
+        left: 500px;
+       
+        
+        padding:20px;
+        
+        border-radius: 77px 77px 77px 77px;
+        -moz-border-radius: 77px 77px 77px 77px;
+        -webkit-border-radius: 77px 77px 77px 77px;
+        border: 8px solid #BDBDBD;
+
+        
+    }
+    
+    
+        style{
+        
+        h1{
+            
+            color:#FFFFFF;
+        }
+        
+    }
+    
+    
+    
+    
+    
+    #caja1{
+   width:150px;   
+   heigth:0px;
+   background:#F78181;
+   border: 10px solid #DF0101;
+   position:relative;
+   left:80px ;
+   right:100px; 
+   top:250px;
+   
+   
+   
+   
+   
+   
+        
+    }
+    #caja3{
+   position:relative;
+   width:130px;   
+   heigth:50px;
+   background:#81F781;
+   border: 10px solid #088A08;
+   left:180px ;
+   right:0; 
+   top:-229;
+   
+        
+        
+        
+    }
+    
+    
+    #caja2{
+   position:relative;
+   width:130px;   
+   heigth:-300px;
+   background:#5858FA;
+   border: 10px solid #08088A;
+   left:250px ;
+   right:0px; 
+   top:41px;
+   
+        
+        
+        
+    }
+    
+    
+    #caja3 h1{
+        
+        
+       color:#FFFFFF;
+       font-size:70px;
+        text-align: center;
+       
+    }
+    
+    
+    #caja1 h1{
+       
+        color:#FFFFFF;
+        font-size: 50px;
+        padding:20px; 
+         
+     
+         
+         
+          
+    }
+    
+    #caja2{
+        color: #FFFFFF;
+        font-size: 30px;
+         text-align: right;
+         padding:20px; 
+         
+        
+      
+    }
+    #ImgPerso {
+        height: auto;
+        width: auto;
+        max-height: 150px;
+        max-width: 150px;
+        position: relative;
+        left: 220px;
+        right: 0;
+        top:-650px;
+        
+        
+   }
+   
+   
+   
+   #Imgtrofeo{
+       height: auto;
+       width: auto;
+       max-height:100px;
+       max-width: 100px;
+       position: relative;
+       left: 170px;
+       right: 0;
+       top: -900px;  
+       transform: ;
+   
+       
+   }
+   
+
+    
+    
+
+    
+   
+    
